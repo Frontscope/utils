@@ -1,5 +1,5 @@
 {
-  "name": "@frontsight/utils",
+  "name": "@frontscope/utils",
   "version": "1.0.0",
   "description": "JS utils used in Sentoo projects",
   "main": "index.js",
